@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, My name is Fadoua</h1>
 <h3 align="center">I’m a Full Stack Developer and AI & IoT Engineering student , with a background in Data & AI Engineering</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fadoua-er" alt="fadoua-er" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fadoua-er&label=Profile%20views&color=0e75b6&style=flat" alt="fadoua-er" /> </p>
 
 - 🔭 I’m currently working on **AI-based Smart Irrigation System 🌿 Intelligent irrigation using sensor data, weather prediction, and ML models for water optimization.**
 
