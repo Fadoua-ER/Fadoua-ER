@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on an **AI-based Smart Irrigation System 🌿 Intelligent irrigation using sensor data, weather prediction, and ML model to help with the water optimization.**
 
-- 🌱 I'm eager to learn **IoT and AI-integrated projects (Smart Systems, Edge AI, Predictive Maintenance)**
+- 🌱 I'm eager to learn about **IoT and AI-integrated projects (Smart Systems, Edge AI, Predictive Maintenance)**
 
 - 💡 I’m interested in **full-system design — from concept to deployment — integrating secure and autonomous IoT environments, AI pipelines, data analysis, and cloud-connected systems across multiple domains.**
 
