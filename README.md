@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadoua-er&label=Profile%20views&color=0e75b6&style=flat" alt="fadoua-er" /> </p>
 
-- 🔭 I’m currently working on **AI-based Smart Irrigation System 🌿 Intelligent irrigation using sensor data, weather prediction, and ML models for water optimization.**
+- 🔭 I’m currently working on an **AI-based Smart Irrigation System 🌿 Intelligent irrigation using sensor data, weather prediction, and ML models for water optimization.**
 
 - 🌱 I'm eager to learn **IoT and AI-integrated projects (Smart Systems, Edge AI, Predictive Maintenance)**
 
