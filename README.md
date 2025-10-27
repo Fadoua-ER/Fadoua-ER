@@ -7,7 +7,7 @@
 
 - 🌱 I'm eager to learn about **IoT and AI-integrated projects (Smart Systems, Edge AI, Predictive Maintenance)**
 
-- 💡 I’m interested in **full-system design — from concept to deployment — integrating secure and autonomous IoT environments, AI pipelines, data analysis, and cloud-connected systems across multiple domains.**
+- 💡 I’m interested in **full-system design, integrating secure and autonomous IoT environments, AI pipelines, data analysis, and cloud-connected systems across multiple domains.**
 
 - 📫 How to reach me **fadoua.err005@gmail.com**
 
