@@ -141,4 +141,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadoua-er&show_icons=true&locale=en&layout=compact" alt="fadoua-er" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fadoua-er&show_icons=true&locale=en" alt="fadoua-er" /></p>
