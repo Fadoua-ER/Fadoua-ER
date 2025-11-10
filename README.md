@@ -2,7 +2,7 @@
 <h3 align="center">I’m a Full Stack Developer and AI & IoT Engineering student , with a background in Data & AI Engineering</h3>
 
 
-- 🔭 I’m currently working on an **AI-based Smart Irrigation System 🌿 Intelligent irrigation using sensor data, weather prediction, and ML model to help with the water optimization.**
+- 🔭 I’m currently working on an **AI-based Smart Irrigation System 🌿 Intelligent irrigation using sensor data, reference evapotranspiration prediction, with a ML model to help with the irrigation decision and water optimization.**
 
 - 🌱 I'm eager to learn about **IoT and AI-integrated projects (Smart Systems, Edge AI, Predictive Maintenance)**
 
